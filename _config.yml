@@ -1,0 +1,41 @@
+# Site settings
+title: Tikkle
+description: Your time, simplified.
+url: "https://tikkle-life.github.io"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /blog/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

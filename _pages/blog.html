@@ -1,0 +1,35 @@
+---
+title: Blog
+layout: default
+permalink: /blog/
+---
+
+<section class="blog-page">
+  <div class="container">
+    <header class="page-header">
+      <h1>Blog</h1>
+      <p class="meta">News, updates, and insights from the Tikkle team</p>
+    </header>
+
+    <ul class="posts-list">
+      {% for post in site.posts %}
+      <li class="post-item">
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        <p class="meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%B %d, %Y" }}
+          </time>
+          {% if post.author %} &middot; {{ post.author }}{% endif %}
+        </p>
+        {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+
+    {% if site.posts.size == 0 %}
+    <p>No posts yet. Check back soon!</p>
+    {% endif %}
+  </div>
+</section>

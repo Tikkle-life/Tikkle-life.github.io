@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <div class="container">
+    <h1>{{ page.hero_title | default: site.title }}</h1>
+    <p class="hero-subtitle">{{ page.hero_subtitle | default: site.description }}</p>
+    {% if page.cta_text %}
+    <a href="{{ page.cta_link | default: '#' }}" class="btn btn-primary">{{ page.cta_text }}</a>
+    {% endif %}
+  </div>
+</section>
+
+{{ content }}
