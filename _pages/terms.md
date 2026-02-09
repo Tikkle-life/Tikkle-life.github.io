@@ -2,57 +2,208 @@
 title: Terms of Service
 layout: page
 permalink: /terms/
-last_updated: 2026-01-29
+last_updated: 2026-01-28
 ---
 
-## 1. Acceptance of Terms
+Effective Date: January 28, 2026
 
-By accessing and using Tikkle ("the App"), you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to abide by these terms, please do not use this service.
+# **Tikkle Terms of Service**
 
-## 2. Description of Service
+## **1. Introduction**
 
-Tikkle is a time management application designed to help users organize their schedules and improve productivity. The service may include various features related to time tracking, scheduling, and personal organization.
+Welcome to Tikkle ("Tikkle," "we," "us," or "our"). These Terms of Service ("Terms") govern your access to and use of the Tikkle website, mobile applications, and related services (collectively, the "Services").
 
-## 3. User Accounts
+By accessing or using the Services, you agree to be bound by these Terms. If you do not agree, you may not use the Services.
 
-You may be required to create an account to use certain features of the App. You are responsible for:
-- Maintaining the confidentiality of your account credentials
-- All activities that occur under your account
-- Notifying us immediately of any unauthorized use
+---
 
-## 4. Acceptable Use
+## **2. Overview of the Services**
+
+Tikkle operates a peer-to-peer local marketplace that enables users to list items and connect with other users to buy and sell items locally.
+
+**Important Notice:**
+At this time, Tikkle **does not facilitate payments, escrow, refunds, delivery, or financial transactions of any kind**. All transactions, payments, exchanges, and arrangements are conducted **directly between Buyers and Sellers outside of the Tikkle platform**.
+
+Tikkle is **not a party** to any transaction between users.
+
+Certain features (including in-app payments, rentals, or other transaction models) may be introduced in the future and will be governed by updated or supplemental terms.
+
+---
+
+## **3. Eligibility and Accounts**
+
+You must be at least 18 years old to use the Services.
+
+You agree to:
+
+* Provide accurate and current information
+* Maintain the confidentiality of your account credentials
+* Be responsible for all activity under your account
+
+Tikkle may suspend or terminate accounts that violate these Terms or applicable law.
+
+---
+
+## **4. Definitions**
+
+Buyer
+: A user who seeks to purchase an item from another user.
+
+Seller
+: A user who lists an item for sale.
+
+Item
+: Any tangible personal property listed on Tikkle.
+
+Sale Transaction
+: Any agreement, exchange, or transaction entered into directly between a Buyer and Seller outside of the Services.
+
+---
+
+## **5. Tikkle's Role and Limitations**
+
+Tikkle provides a listing and discovery platform only.
+
+Tikkle:
+
+* Does not process or facilitate payments
+* Does not set prices or collect fees
+* Does not verify users, items, or listings
+* Does not guarantee that a transaction will occur
+* Does not provide warranties or insurance
+
+All negotiations, payments, deliveries, and disputes occur solely between Buyers and Sellers.
+
+---
+
+## **6. Seller Responsibilities**
+
+By listing an Item, a Seller represents and warrants that:
+
+* They are the lawful owner of the Item and authorized to sell it
+* The listing description, images, and condition are accurate
+* The Item complies with all applicable laws
+* The Item is not prohibited under these Terms
+
+Sellers are solely responsible for pricing, communication, payment arrangements, and delivery.
+
+---
+
+## **7. Buyer Responsibilities**
+
+By engaging with a Seller, a Buyer acknowledges that:
+
+* Tikkle does not inspect or verify Items
+* Items are offered "AS IS," unless otherwise agreed
+* Tikkle is not responsible for Item condition or suitability
+
+Buyers are responsible for inspecting Items and confirming all terms directly with Sellers.
+
+---
+
+## **8. Payments and Transactions (Off-Platform)**
+
+All payments and exchanges occur outside of Tikkle.
+
+Tikkle:
+
+* Does not handle money
+* Does not hold funds
+* Does not issue refunds
+* Does not mediate payment disputes
+
+Users assume all risks associated with off-platform transactions.
+
+---
+
+## **9. Delivery, Pickup, and Risk**
+
+Buyers and Sellers are responsible for arranging pickup, delivery, or shipping.
+
+Tikkle is not responsible for loss, damage, theft, or delays.
+
+Risk of loss is determined solely by agreement between Buyer and Seller.
+
+---
+
+## **10. Taxes**
+
+Users are solely responsible for determining and paying any applicable taxes. Tikkle does not provide tax advice or reporting.
+
+---
+
+## **11. Prohibited Items**
+
+Users may not list or transact in:
+
+* Illegal, stolen, or counterfeit goods
+* Items requiring licensing without authorization
+* Weapons, controlled substances, or hazardous materials
+* Items infringing intellectual property rights
+
+Tikkle may remove listings and suspend accounts at its discretion.
+
+---
+
+## **12. User Conduct**
 
 You agree not to:
-- Use the App for any unlawful purpose
-- Attempt to gain unauthorized access to our systems
-- Interfere with the proper functioning of the App
-- Upload or transmit viruses or malicious code
 
-## 5. Intellectual Property
-
-All content, features, and functionality of the App are owned by Tikkle and are protected by international copyright, trademark, and other intellectual property laws.
-
-## 6. Disclaimer of Warranties
-
-The App is provided "as is" without any warranties, expressed or implied. We do not guarantee that the App will be error-free or uninterrupted.
-
-## 7. Limitation of Liability
-
-To the fullest extent permitted by law, Tikkle shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the App.
-
-## 8. Changes to Terms
-
-We reserve the right to modify these terms at any time. We will notify users of any material changes by posting the new terms on this page.
-
-## 9. Governing Law
-
-These terms shall be governed by and construed in accordance with applicable laws, without regard to conflict of law principles.
-
-## 10. Contact Us
-
-If you have any questions about these Terms of Service, please contact us at:
-- Email: [legal@tikkle.app]
+* Post false or misleading listings
+* Harass or deceive other users
+* Circumvent platform safeguards
+* Use the Services for unlawful purposes
 
 ---
 
-*This is a template document. Please consult with a legal professional to ensure compliance with applicable laws and regulations.*
+## **13. Disclaimer of Warranties**
+
+The Services are provided "AS IS" and "AS AVAILABLE."
+
+Tikkle disclaims all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.
+
+---
+
+## **14. Limitation of Liability**
+
+To the maximum extent permitted by law, Tikkle shall not be liable for damages arising from:
+
+* User-to-user transactions
+* Off-platform payments or exchanges
+* Item defects, losses, or disputes
+
+Tikkle's total liability shall not exceed $100 USD or the minimum amount required by law.
+
+---
+
+## **15. Indemnification**
+
+You agree to indemnify and hold harmless Tikkle from claims arising out of:
+
+* Your use of the Services
+* Your listings or transactions
+* Your violation of these Terms or applicable law
+
+---
+
+## **16. Suspension and Termination**
+
+Tikkle may suspend or terminate access to the Services at any time to enforce these Terms or protect the platform.
+
+---
+
+## **17. Changes to These Terms**
+
+Tikkle may update these Terms from time to time. Continued use of the Services constitutes acceptance of the updated Terms.
+
+---
+
+## **18. Governing Law**
+
+These Terms are governed by the laws of the State of California, without regard to conflict of law principles.
+
+---
+
+## **19. Contact Information**
+
+Email: support@tikkle.life
