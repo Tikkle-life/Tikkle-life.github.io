@@ -6,8 +6,33 @@ layout: default
   <div class="container">
     <h1>{{ page.hero_title | default: site.title }}</h1>
     <p class="hero-subtitle">{{ page.hero_subtitle | default: site.description }}</p>
+    {% if page.hero_description %}
+    <p class="hero-description">{{ page.hero_description }}</p>
+    {% endif %}
+
+    {% if page.show_screenshot %}
+    <div class="app-screenshot">
+      <div class="phone-frame">
+        <img src="{{ '/assets/images/main.png' | relative_url }}" alt="Tikkle app screenshot">
+      </div>
+    </div>
+    {% endif %}
+
+    {% if page.show_store_badges %}
+    <div class="store-badges">
+      <span class="store-badge">
+        <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store">
+      </span>
+      <span class="store-badge">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play">
+      </span>
+    </div>
+    {% endif %}
+
     {% if page.cta_text %}
-    <a href="{{ page.cta_link | default: '#' }}" class="btn btn-primary">{{ page.cta_text }}</a>
+    <div class="hero-cta">
+      <a href="{{ page.cta_link | default: '#' }}" class="btn btn-primary">{{ page.cta_text }}</a>
+    </div>
     {% endif %}
   </div>
 </section>
