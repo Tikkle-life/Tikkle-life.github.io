@@ -2,10 +2,10 @@
 title: Privacy Policy
 layout: page
 permalink: /privacy/
-last_updated: 2026-01-28
+last_updated: 2026-02-27
 ---
 
-Effective Date: January 28, 2026
+Effective Date: February 27, 2026
 
 # **Tikkle Privacy Policy**
 
@@ -21,98 +21,87 @@ This Privacy Policy also describes your rights regarding your personal informati
 
 ## **2. Information We Collect**
 
-We collect personal information that you voluntarily provide when you use the Services, sign up for an account, submit content, communicate with us, or otherwise interact with the Services.
+When you use the Services, we collect personal information that you voluntarily provide and information collected automatically through your use of the Services.
 
-The categories of personal information we may collect include:
+### **Information You Provide**
 
-**A. Identifiers**
+We collect personal information that you voluntarily provide when you:
 
-* Name, email address, date of birth, profile picture, username, account information
+* Create or update an account
+* Submit content such as campus posts, event details, or listings
+* Contact support
+* Participate in surveys or feedback
 
-**B. Contact Information**
+Examples include:
 
-* Postal address, city/state, phone number
+* Name
+* Email address
+* Profile information
+* Campus affiliation and optional contact details
 
-**C. Account Activity and Content You Provide**
-
-* Item descriptions, photos, listings, communications with other users, user reviews
-
-**D. Online Identifiers & Device Data**
-
-* IP address, device type, browser type, operating system, mobile device identifiers
-
-**E. Location Data**
-
-* Approximate or precise location if you grant permission
-
-**F. Usage Data**
-
-* Pages visited, time on site, feature usage, click paths
+(These categories reflect the types of information currently collected and may be updated as features evolve.)
 
 ---
 
-## **3. How We Collect Information**
+## **3. Information Collected Automatically**
 
-We collect personal information in the following ways:
+We automatically collect data about your interactions with the Services, which may include:
 
-* **Directly From You:** When you register, create or update an account, list an item, communicate with another user, or contact support.
+* IP address
+* Device type and operating system
+* Browser type
+* Pages viewed and time spent within the Services
+* Feature usage and click paths
 
-* **Through Technology:** When you use our Services, we and third-party partners collect data using cookies and similar tracking technologies.
-
-* **From Third Parties:** We may receive information from analytics providers, advertising partners, and service providers.
+This information helps us improve performance, understand how the Services are used, and enhance user experience.
 
 ---
 
 ## **4. How We Use Personal Information**
 
-We may use your personal information for the following purposes:
+We may use your personal information for purposes including:
 
-* Operate, maintain, and improve the Services
-* Facilitate user interactions and listings
-* Respond to inquiries or support requests
-* Personalize content and advertising
-* Conduct analytics and research
-* Detect and prevent fraud, abuse, and security incidents
-* Comply with legal obligations
+* Operating, maintaining, and improving the Services
+* Organizing and displaying content relevant to your campus
+* Verifying campus affiliation
+* Responding to inquiries or support requests
+* Conducting data analytics and research
+* Detecting and preventing fraud or abuse
+* Complying with legal obligations
 
----
-
-## **5. Sharing and Disclosure**
-
-We may share personal information as described below:
-
-**A. With Other Users:**
-When you create a listing or interact with other users, we display certain information (like your first name and profile details) to facilitate connections.
-
-**B. With Service Providers:**
-We share personal information with vendors that help provide and improve our Services (e.g., analytics, email providers, cloud hosting).
-
-**C. For Legal Reasons:**
-We may disclose information if required by law or to protect our rights.
-
-**D. Aggregated or De-identified Data:**
-We may share data that does not identify you personally.
+We do not sell your personal information.
 
 ---
 
-## **6. No Payments Handled on Platform**
+## **5. Cookies and Tracking Technologies**
 
-At this time, Tikkle **does not handle payments, financial transactions, or payment card data through the Services**. All payments related to buy-and-sell interactions occur directly between Buyers and Sellers outside of the platform. We do not collect or process credit card or payment information on our platform.
+We and third-party partners use cookies, pixels, web beacons, and similar technologies to:
 
-If Tikkle later introduces in-app payments or related features, we will update this Privacy Policy to describe how we collect and process payment-related information.
-
----
-
-## **7. Cookies and Tracking Technologies**
-
-We and third-party partners use cookies, pixels, web beacons, SDKs, and other tracking technologies to:
-
-* Recognize returning users
-* Understand user behavior
+* Recognize returning visitors
+* Measure and analyze usage
 * Improve and secure the Services
-* Deliver personalized advertising (if applicable)
 
-You may manage preferences and opt out of certain tracking features through your browser or device settings.
+You may manage or disable certain cookies through browser or device settings, though some features may require cookies to function properly.
+
+---
+
+## **6. Information Sharing**
+
+We may share personal information under these circumstances:
+
+**With other users.** Certain pieces of information (e.g., name and campus affiliation) may be visible to other users when you post publicly.
+
+**With service providers.** We share information with vendors who help provide or improve the Services (e.g., cloud hosting, analytics).
+
+**For legal reasons.** We may disclose information to comply with laws or protect rights.
+
+**Aggregated or de-identified data.** We may share information that does not personally identify you.
+
+---
+
+## **7. No Payment Processing on Platform**
+
+Tikkle does not process payments or collect payment card data on the platform. All arrangements between students involving money occur independently outside the platform. If internal payment features are introduced in the future, this policy will be updated accordingly.
 
 ---
 
@@ -133,13 +122,13 @@ To exercise your privacy rights or make a privacy request, contact us as describ
 
 ## **9. Data Retention**
 
-We retain personal information only as long as necessary to fulfill the purposes described in this Privacy Policy or as required by law. Retention periods may vary depending on the type of information and regulatory requirements.
+We retain personal information only as long as needed to fulfill the purposes described in this Privacy Policy or as required by law. Retention periods may vary based on legal or operational needs.
 
 ---
 
 ## **10. Security**
 
-We implement administrative, technical, and physical safeguards designed to protect personal information from unauthorized access, use, or disclosure. However, no security system is impenetrable, and we cannot guarantee complete protection of your information.
+We use administrative, technical, and physical safeguards to protect personal information from unauthorized access, use, or disclosure. However, no system is completely secure, and we cannot guarantee absolute protection of your information.
 
 ---
 
@@ -151,7 +140,7 @@ The Services are not directed to children under the age of 13, and we do not kno
 
 ## **12. International Transfers**
 
-Data collected through the Services may be processed or stored in the United States or other countries where we or our service providers operate.
+Data collected through the Services may be processed or stored in the United States or other countries where we or our service providers operate. By using the Services, you consent to international data transfers.
 
 ---
 

@@ -2,13 +2,12 @@
 title: FAQ
 layout: page
 permalink: /faq/
-last_updated: 2026-01-28
+last_updated: 2026-02-27
 ---
 
 # **Tikkle FAQ**
 
-Welcome to the Tikkle FAQ!
-Here you'll find answers to common questions about how Tikkle works, how to list and discover items, and how to stay safe on the platform.
+Welcome to the Tikkle FAQ! Here you'll find answers to common questions about how Tikkle works, what services are available, and how to get the most out of the platform.
 
 ---
 
@@ -16,49 +15,50 @@ Here you'll find answers to common questions about how Tikkle works, how to list
 
 **Q: What is Tikkle?**
 
-A: Tikkle is your friendly neighborhood marketplace where local community members can list and find items to buy and sell with one another. We connect neighbors so that you can discover useful items nearby and transact directly with other users.
+A: Tikkle is the daily campus life hub where college students discover opportunities, resources, and connections. It brings together useful campus information in one place so students can save time, stay informed, and make the most of college life.
 
-Tikkle is a listing and discovery platform only. All purchase arrangements and payments are made directly between Buyers and Sellers outside of the Tikkle platform.
+**Q: What can I find on Tikkle?**
 
-**Q: Do you handle payments on Tikkle?**
+A: You can discover:
 
-A: Not at this time. Tikkle does not process, store, or facilitate payments through the platform. Buyers and Sellers arrange payment terms independently off-platform (e.g., in person, cash, peer-to-peer payment apps, etc.).
+* Free food and giveaways
+* Campus events and activities
+* Job and internship opportunities
+* Skill and gig sharing such as tutoring, resume review, fitness, tech help, or creative services
+* Housing listings and roommate connections
+* Carpool and ride sharing
+* Moving help and short term campus support
+* Second hand items to buy or sell
+* Student to student rentals
 
-If we introduce in-app payments in the future, we'll let you know and update our Terms and FAQ accordingly.
+Tikkle is designed to reduce friction in finding everyday campus information.
 
-**Q: Do you handle delivery?**
+**Q: Who can use Tikkle?**
 
-A: No. Tikkle does not provide shipping or delivery services. Buyers and Sellers coordinate pickup or delivery directly with each other.
+A: Tikkle is built for college students within specific campus communities. Access may require verification of your campus affiliation.
 
 ---
 
-## **Listings & Buying/Selling**
+## **Using Tikkle**
 
-**Q: What can I sell on Tikkle?**
+**Q: How do I find what I need?**
 
-A: You can list almost any type of item that is legal and compliant with our [Terms of Service](/terms/). Popular categories include tools, sporting goods, electronics, furniture, home items, and more.
+A: You can browse by Explore or Surf. Tikkle helps you quickly discover relevant information based on your campus and interests.
 
-Check our [Terms of Service](/terms/) for a full list of prohibited items.
-
-**Q: How do I list an item?**
+**Q: How do I post something?**
 
 A:
 
-1. Create your free account.
-2. Tap **Add Listing** or **List Item**.
-3. Upload clear photos and fill in a description.
-4. Set your desired price.
-5. Publish.
+1. Create your account.
+2. Tap "+" to add a post.
+3. Upload a clear photo or video and fill in a title, description, time/date and location.
+4. Publish to your campus community.
 
-Listings are free — you pay nothing to create a listing.
+Postings are free. You pay nothing to create a listing.
 
-**Q: Are there fees to list or sell items?**
+**Q: Does Tikkle process payments?**
 
-A: No — listings are free. Tikkle does not charge any platform fees for buy/sell transactions at this time. All payment arrangements and any associated costs (fees for cash-app services, bank transfer fees, etc.) are between the Buyer and Seller.
-
-**Q: How do I find items near me?**
-
-A: Use the search bar and filters on the app or website to browse listings in your area. You can filter by category, location, and keywords to quickly find what you're looking for.
+A: No. If a post involves payment, students handle that independently outside of Tikkle.
 
 ---
 
@@ -66,35 +66,23 @@ A: Use the search bar and filters on the app or website to browse listings in yo
 
 **Q: How do I reset my password?**
 
-A: Go to **Login > Forgot Password** and follow the instructions to reset your password via email.
-
-**Q: How do I update my profile information?**
-
-A: Visit **Account > Profile** to update your display name, profile photo, location, and contact preferences.
+A: Go to **Account > Forgot Password** and follow the instructions to reset your password via email.
 
 **Q: How do I deactivate my account?**
 
-A: For help with deactivation, contact support@tikkle.life — our support team will assist you.
+A: Go to **Account > Delete Account** and follow the instructions to delete your account.
 
 ---
 
-## **Safety, Communication & Transactions**
+## **Safety & Community**
 
-**Q: Can other users see my messages?**
+**Q: Does Tikkle monitor content?**
 
-A: Conversations between users are private (visible only to participants). Tikkle may monitor interactions only if needed to enforce policies or in response to abuse reports consistent with our [Privacy Policy](/privacy/).
+A: Tikkle reviews reported content and may remove posts that violate our [Terms of Service](/terms/) or community standards.
 
-**Q: How do I stay safe when transacting with others?**
+**Q: What if I see inappropriate content?**
 
-A:
-
-* Meet in public, well-lit places.
-* Bring a friend with you if possible.
-* Confirm item details before agreeing to meet.
-* Use clear photos and accurate descriptions.
-* Communicate through the Tikkle messaging tools when possible.
-
-Tikkle does not guarantee item condition or safety — all transactions and meetups are arranged directly between users.
+A: Please contact support at support@tikkle.life with details so our team can review and take appropriate action.
 
 **Q: What should I do if something goes wrong?**
 
@@ -102,22 +90,8 @@ A: Try first to resolve issues directly with the other user. If you are unable t
 
 ---
 
-## **Moderator Policies & Community Standards**
+## **Our Mission**
 
-**Q: What happens if someone breaks the rules?**
+**Q: What's Tikkle's goal?**
 
-A: Tikkle aims to maintain a safe, respectful community. Users who violate the Terms of Service or Guidelines may face warnings, suspensions, or permanent removal from the platform.
-
-**Q: Do you change the Terms of Service or Privacy Policy?**
-
-A: Yes. As Tikkle evolves, we may update our Terms, Privacy Policy, and FAQ to reflect new features and legal requirements. We'll notify users of substantial changes as described in the Terms.
-
----
-
-## **Future Features**
-
-**Q: Will you support in-app payments or rental features?**
-
-A: We are working on enhancements, including possible in-app payments and rental features. These will be introduced through updated Terms, Privacy Policy addendums, and product release announcements.
-
-Stay tuned for updates!
+A: Our goal is to become the campus life hub that students rely on daily for fun, savings, opportunities, and meaningful connections. We aim to make campus life more accessible, efficient, and connected for everyone.
